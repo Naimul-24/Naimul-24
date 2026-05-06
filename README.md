@@ -6,7 +6,7 @@ Hi, I'm Naimul 👋
 - 📈 Goal: Become a top developer and work at global tech companies  
 - 🌱 Always learning and building  
 
-⚡ I believe in creating, not copying — inspired by "Zero to One"
+⚡ I believe in creating, not copying — inspired by "Zero to One."
 
 <!---
 Naimul-24/Naimul-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
