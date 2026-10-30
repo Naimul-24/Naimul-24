@@ -1,14 +1,24 @@
-Hi, I'm Naimul 👋  
-🚀 Aspiring Software Developer | Problem Solver  
+# Naimul Hossain — Portfolio
 
-- 💻 Currently learning: JavaScript, React, Backend Development  
-- 🔧 Working on: Real-world projects & freelancing  
-- 📈 Goal: Become a top developer and work at global tech companies  
-- 🌱 Always learning and building  
+Personal portfolio website showcasing my web development projects and my learning journey toward AI and robotics software.
 
-⚡ I believe in creating, not copying — inspired by "Zero to One."
+## Live portfolio
 
-<!---
-Naimul-24/Naimul-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Once GitHub Pages is enabled and the deployment workflow succeeds:
+https://naimul-24.github.io/Naimul-24/
+
+## Featured projects
+
+- [Payra](https://github.com/Naimul-24/payra-frontend) — fintech prototype with demo wallet, transaction, and QR payment flows.
+- [DevStack Builder](https://github.com/Naimul-24/B14-A05-DevStack) — responsive technology explorer and stack builder.
+- [DevConf 2026](https://github.com/Naimul-24/B14-A01-DevConf-2026) — conference-style website.
+
+## Run locally
+
+Open `index.html` in a browser. The page is a static HTML, CSS, and JavaScript site.
+
+## Deployment
+
+The GitHub Actions workflow in `.github/workflows/deploy-pages.yml` deploys the site to GitHub Pages on pushes to `main`.
+
+If Pages has not been enabled for this repository yet, open **Settings → Pages**, set **Build and deployment → Source** to **GitHub Actions**, then run the **Deploy portfolio to GitHub Pages** workflow from the Actions tab.
